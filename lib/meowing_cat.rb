@@ -1,7 +1,7 @@
 ## code your solution here. 
 class Cat 
   
-  def name 
+  def name  
     attr_accessor = @name 
   end
 end
